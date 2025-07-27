@@ -1,4 +1,3 @@
-# Sistema-Inbox
 # 💬 Projeto: Sistema de Mensagens em Java
 
 Este projeto é um sistema simples de mensagens implementado em Java, utilizando os conceitos de Programação Orientada a Objetos (POO), como **herança**, **classe abstrata** e **métodos sobrescritos**.
@@ -16,16 +15,14 @@ Este projeto é um sistema simples de mensagens implementado em Java, utilizando
 ---
 
 ## 📁 Estrutura do projeto
+```
 
 ProjetosParalelos/
 └── sistemainbox/
 ├── Mensagem.java // Classe abstrata base
 ├── MensagemTexto.java // Subclasse concreta: mensagem de texto
 └── Main.java // Classe com método main para testes
-
-yaml
-Copiar
-Editar
+```
 
 ---
 
@@ -41,13 +38,11 @@ Editar
 
 ## ▶️ Exemplo de saída
 
+```
 De: Tiffany | Data: 24/07/2025 14:30
 Mensagem de texto:
 Olá! Esta é uma mensagem de teste.
-
-yaml
-Copiar
-Editar
+```
 
 ---
 
@@ -68,4 +63,15 @@ Editar
 
 ---
 
-Desenvolvido com ❤️ por Tiffany Ekesiani
+## 👩‍💻 Desenvolvido por:
+
+###  Tiffany Ekesiani
+
+<a href="https://github.com/TiffanyEkesiani" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/tiffanyekesiani/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
